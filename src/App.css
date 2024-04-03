@@ -1,0 +1,22 @@
+.playerCard{
+  text-align: center;
+  background-color: dodgerblue;
+  width: 200pt;
+  margin: auto;
+  padding: 10pt;
+  margin-top: 10pt;
+  border: solid black;
+}
+.playerCard > img {
+  width: 180pt;
+  border: solid black;
+  border-radius: 20pt;
+}
+body{
+  text-align: center;
+  background-color: rgb(223, 223, 223);
+}
+button{
+  margin-top: 5pt;
+  font-size: larger;
+}
